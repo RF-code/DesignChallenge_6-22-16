@@ -26,36 +26,33 @@ h3{
 
 #circle-right{
 	border-radius: 100%;
-	height: 100px;
-	width: 100px;
-	border: solid 2px block;
-	background-color: white;
+	height: 150px;
+	width: 150px;
+	border: solid 3px #A4A4A4;
+	background-color: #FAFAFA;
 	margin-left: 1000px;
 }
 
 #circle-center{
 	border-radius: 100%;
-	height: 100px;
-	width: 100px;
-	border: solid 2px block;
-	background-color: white;
+	height: 150px;
+	width: 150px;
+	border: solid 3px #A4A4A4;
+	background-color: #FAFAFA;
 	margin-left: 700px;
-	margin-top: -100px;
+	margin-top: -150px;
 }
 
 #circle-left{
 	border-radius: 100%;
-	height: 100px;
-	width: 100px;
-	border: solid 2px block;
-	background-color: white;
+	height: 150px;
+	width: 150px;
+	border: solid 3px #A4A4A4;
+	background-color: #FAFAFA;
 	margin-left: 400px;
-	margin-top: -100px;
+	margin-top: -150px;
 }
 
-.circle{
-	margin-top: 70px;
-}
 
 #bottom{
 	height: 500px;
@@ -65,8 +62,26 @@ h3{
 
 #little-circle{
 	border-radius: 100%;
-	height: 50px;
-	width: 50px;
-	border: solid 2px block;
-	background-color: black;
+	height: 75px;
+	width: 75px;
+	background-color: white;
+	border: solid 3px #A4A4A4;
+	margin-left: 750px;
+	margin-top: 70px;
+}
+
+#chevron{
+	height:40px;
+	width:60px;
+	margin-top: 20px;
+	margin-left: 8px;
+}
+
+#text{
+	width: 900px;
+	height: 400px;
+	margin-top: 100px;
+	margin-left: 330px;
+	background-color: #D8D8D8;
+
 }
